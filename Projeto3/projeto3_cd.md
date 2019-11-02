@@ -4,6 +4,8 @@
 
 Este documento apresenta as premissas do projeto final de Ciência dos Dados.
 
+**Baixe o PDF para os links funcionarem**
+
 ### Objetivos
 
 O principal objetivo do Projeto 3 é conduzir uma análise de dados com grau elevado de autonomia e liberdade de escolha de tema e de técnica.
@@ -124,11 +126,22 @@ Em outras palavras, não adianta ter A em trabalho em equipe e D em projeto. A n
 
 ### Referências
 
-Além dos materiais da disciplina e dos livros-texto, sugerimos as seguintes obras para uma visão geral de Machine Learning / Classificação em Python.
+Aurelien Géron. Hands-on Machine Learning with Scikit-Learn and Tensorflow, O'Reilly, 2017. Capítulos 1 e 2. **Disponível na biblioteca**
 
 [DANTAS, D. Comparação Entre Técnicas de Regressão Logística, Árvore de Decisão, Bagging e Random Forest Aplicadas a um Estudo de Concessão de Crédito - Trabalho de Conclusão de Curso. UFPR, Curitiba, 2013 - Capítulo 2](http://www.coordest.ufpr.br/wp-content/uploads/2018/12/TCC_DanielEricson.pdf)
 
 [Introduction to Statistical Learning - capítulos 4 e 10](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
+
+No livro acima, leitura recomendada:
+* Capítulo 1
+* Capítulo 2, seções 2.1 e 2.2
+* Capítulo 3, seções 3.1 3 3.2
+* Capítulo 4, seções 4.1, 4.2 e 4.3
+* Capítulo 8, seções 8.1 e 8.2
+* Capítulo 10, seção 10.3.
+
+Existe [uma tradução completa](https://github.com/tdpetrou/Machine-Learning-Books-With-Python/tree/master/Introduction%20to%20Statistical%20Learning
+) do código do livro acima para linguagem Python 
 
 [Hands-on Machine Learning - notebooks Python. Temos o livro na biblioteca](https://github.com/ageron/handson-ml)
 
