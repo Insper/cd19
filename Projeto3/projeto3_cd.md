@@ -110,11 +110,11 @@ Além disso, haverá uma dimensão de trabalho em equipe avaliada por questioná
 Para ter a nota máxima, é preciso ter contribuições relevantes no Github do grupo **e** ter preenchido um formulário de avaliação dos colegas.
 
 
-![Contribuir com o trabalho do time](contribuir_com_trabalho_do_time.png)
+![Contribuir com o trabalho do time](contribuir_com_trabalho_do_time.png){ width=60% }
 
-![Manter o time no rumo certo](manter_time_rumo_certo.png)
+![Manter o time no rumo certo](manter_time_rumo_certo.png){ width=60% }
 
-![Interação com os colegas de time](interacao_com_colegas_de_time.png)
+![Interação com os colegas de time](interacao_com_colegas_de_time.png){ width=60% }
 
 **Atenção: **  
 
